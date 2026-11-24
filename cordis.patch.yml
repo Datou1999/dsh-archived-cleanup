@@ -1,0 +1,3 @@
+- insert:
+    - id: archived-cleanup
+      name: 'dsh-archived-cleanup'

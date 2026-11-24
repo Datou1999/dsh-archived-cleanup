@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Archived cleanup",
+    "description": "Review archived Sessions and permanently delete the ones you select, with an automatic backup.",
+    "detail": "docs/DETAIL.md"
+  }
+}

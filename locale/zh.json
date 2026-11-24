@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "归档会话清理",
+    "description": "查看已归档会话，勾选后永久删除，删除前自动备份。",
+    "detail": "docs/DETAIL.zh.md"
+  }
+}
